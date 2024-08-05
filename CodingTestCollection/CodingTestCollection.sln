@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringOutput", "StringOutput\StringOutput.csproj", "{64E362C1-602A-437E-A514-F86299F2D442}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringOutput", "StringOutput\StringOutput.csproj", "{64E362C1-602A-437E-A514-F86299F2D442}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Repeated Output", "String Repeated Output\String Repeated Output.csproj", "{EE035A76-FE40-49E0-BFEA-04927EBC77D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{64E362C1-602A-437E-A514-F86299F2D442}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64E362C1-602A-437E-A514-F86299F2D442}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64E362C1-602A-437E-A514-F86299F2D442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE035A76-FE40-49E0-BFEA-04927EBC77D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE035A76-FE40-49E0-BFEA-04927EBC77D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE035A76-FE40-49E0-BFEA-04927EBC77D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE035A76-FE40-49E0-BFEA-04927EBC77D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
