@@ -17,7 +17,7 @@
             {
                 answer += m * score[i - m];
             }
-            return answer;
+                return answer;
         }
     }
 }
