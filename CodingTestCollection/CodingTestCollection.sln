@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RightParentheses", "RightPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Additive Output", "Additive Output\Additive Output.csproj", "{5910B59C-AFF7-4CC4-AF6D-FB09C0CBF4D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringAndPrint", "StringAndPrint\StringAndPrint.csproj", "{0C3C0E99-540E-4D84-9431-296BD4E1766E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{5910B59C-AFF7-4CC4-AF6D-FB09C0CBF4D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5910B59C-AFF7-4CC4-AF6D-FB09C0CBF4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5910B59C-AFF7-4CC4-AF6D-FB09C0CBF4D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C3C0E99-540E-4D84-9431-296BD4E1766E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C3C0E99-540E-4D84-9431-296BD4E1766E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C3C0E99-540E-4D84-9431-296BD4E1766E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C3C0E99-540E-4D84-9431-296BD4E1766E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
