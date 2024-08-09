@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringAndPrint", "StringAnd
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiple of n", "Multiple of n\Multiple of n.csproj", "{14E8C01C-E23D-48B6-9ECF-F5D4725D7F7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindLargestNumber", "FindLargestNumber\FindLargestNumber.csproj", "{2B1042E4-9850-4FA8-A9B4-235798A020EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindLargestNumber", "FindLargestNumber\FindLargestNumber.csproj", "{2B1042E4-9850-4FA8-A9B4-235798A020EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObtainMedianValue", "ObtainMedianValue\ObtainMedianValue.csproj", "{93CBEEAF-C873-46A2-9A65-5F030DF7CE61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{2B1042E4-9850-4FA8-A9B4-235798A020EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B1042E4-9850-4FA8-A9B4-235798A020EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B1042E4-9850-4FA8-A9B4-235798A020EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93CBEEAF-C873-46A2-9A65-5F030DF7CE61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93CBEEAF-C873-46A2-9A65-5F030DF7CE61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93CBEEAF-C873-46A2-9A65-5F030DF7CE61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93CBEEAF-C873-46A2-9A65-5F030DF7CE61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
