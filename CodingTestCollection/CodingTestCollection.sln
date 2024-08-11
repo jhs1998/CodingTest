@@ -21,9 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiple of n", "Multiple o
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindLargestNumber", "FindLargestNumber\FindLargestNumber.csproj", "{2B1042E4-9850-4FA8-A9B4-235798A020EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObtainMedianValue", "ObtainMedianValue\ObtainMedianValue.csproj", "{93CBEEAF-C873-46A2-9A65-5F030DF7CE61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObtainMedianValue", "ObtainMedianValue\ObtainMedianValue.csproj", "{93CBEEAF-C873-46A2-9A65-5F030DF7CE61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortStringsAsDesired", "SortStringsAsDesired\SortStringsAsDesired.csproj", "{6C7D5C60-CA8D-4A00-89F2-C17EE9E2370E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortStringsAsDesired", "SortStringsAsDesired\SortStringsAsDesired.csproj", "{6C7D5C60-CA8D-4A00-89F2-C17EE9E2370E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddEvenDistinction", "EstimatedMatchSheet\OddEvenDistinction.csproj", "{CAFD5804-6769-4326-A7FE-1930952571D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{6C7D5C60-CA8D-4A00-89F2-C17EE9E2370E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C7D5C60-CA8D-4A00-89F2-C17EE9E2370E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C7D5C60-CA8D-4A00-89F2-C17EE9E2370E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAFD5804-6769-4326-A7FE-1930952571D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFD5804-6769-4326-A7FE-1930952571D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAFD5804-6769-4326-A7FE-1930952571D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAFD5804-6769-4326-A7FE-1930952571D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
